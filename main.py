@@ -34,20 +34,20 @@ tinyping_data = {
         "bg_color": "#F3E5F5"
     },
     "ENTJ": {
-        "name": "마음핑",
-        "emoji": "👑💪",
-        "image": "https://i.namu.wiki/i/JKAm09L74YYj8mw9p1WHwI3WrlrNZJ85nE3v1iiD7vyV8DDPXhYbS4rNCcaXgKHN5DIDLD7zlpaB2dGS1nC2Cg.webp",
-        "description": "리더십 만렙! 강한 카리스마의 마음핑과 너무 잘 어울려~",
-        "personality": "당당한 리더",
-        "fact": "💪 강한 마음의 힘을 가진 티니핑! 모두를 이끄는 카리스마~",
-        "quote": "내 마음을 따라와!",
-        "color": "#E74C3C",
-        "bg_color": "#FFEBEE"
-    },
+    "name": "나르핑",
+    "emoji": "👑💎",
+    "image": "https://i.namu.wiki/i/k0HJvM1xxQ2giqQ60O23Hb674pOTL0AmIvrjuTocW-LJlXOb3iQ3MFzqSqtZbQZq5hQIGCjK6ElThCXZ6NOXbBP7rGJ7R8-sZ_hR1EqRcbE6mh-8OIRPc5C3WIHzlg2vtY1-PsRZv7Lw74h8bX5rMQ.webp",  # 직접 이미지 추가하기!
+    "description": "당당하고 카리스마 넘치는 리더! 자존감 만렙 나르핑과 너무 잘 어울려~",
+    "personality": "도도한 카리스마 여왕",
+    "fact": "👑 자기애 충만! 당당함의 끝판왕 공주 티니핑~",
+    "quote": "내가 제일 잘나가~!",
+    "color": "#E74C3C",
+    "bg_color": "#FFEBEE"
+},
     "ENTP": {
         "name": "악동핑",
         "emoji": "😈✨",
-        "image": "https://i.namu.wiki/i/sNDXG5C9-jbZJI2QmqKqVZbgFR1OY0u-RyqB7Ja3-bL_Hgz0_4lkXfHzkR-DvjK_HzQqsW7uXMM-Az9SD9Y9CQ.webp",
+        "image": "https://i.namu.wiki/i/9Fne-VPqsl5BA5SV-LnFA3NHozjN5sHTxQYDHGpD6HAsGQu2_XR4Rn_fESjPYNqjIOntP-clYtk0b_w7oYyPEDNw_wvFxVnmRqa-X2KA-jyhniQRaLnwkpsPRQcVMoby5m8mR6BdjMXeYyJzwEaKlA.webp",
         "description": "장난기 가득! 아이디어 뱅크인 너와 악동핑은 환상의 짝꿍!",
         "personality": "재치만점 트러블메이커",
         "fact": "😈 장난치는 걸 제일 좋아하는 악동! 하지만 미워할 수 없어~",
@@ -58,7 +58,7 @@ tinyping_data = {
     "INFJ": {
         "name": "하츄핑",
         "emoji": "💗🌷",
-        "image": "https://i.namu.wiki/i/MfLAyc7VEkLuC9d9NDFRu8nVdHX9NfsLOhWcZeCfvxJfgEbJ7cF6IGu8hi1QvY0_DLVxJ3CvE5gJWAo5OXIWvA.webp",
+        "image": "https://i.namu.wiki/i/Yq5c-LYU0RjCDFk5y025VS3LJTtTujWhCIb_nS89AaeOf-60v9_0PE5p13POFRrGjrOv9H0iMdMilwYyCO6cSkP8i9w1YHA5eokCQruwk-nx0v4rfw60xkP0Qi9r2f-91hANUnuQtI4tAs6IOHkpyQ.webp",
         "description": "따뜻하고 사랑이 넘치는 너! 사랑의 요정 하츄핑과 영혼의 단짝!",
         "personality": "사랑둥이 힐러",
         "fact": "💗 사랑의 마음을 전해주는 메인 티니핑! 모두를 행복하게 해~",
@@ -69,7 +69,7 @@ tinyping_data = {
     "INFP": {
         "name": "라라핑",
         "emoji": "🎵💜",
-        "image": "https://i.namu.wiki/i/RXgB0oVoUNYzaqf-mWlZGUE4FxiV6cnPwSnf6BJ3MlbFhVCi-OYSr1z3kV6ZW3qsLBnAfMfpUdMW7gZmiFZbsg.webp",
+        "image": "https://i.namu.wiki/i/nv2lQ5M6VvxvOcdpW9ZumWLmzlTZjw6UFdi-CWmHEDfZohhHthPKdQnD8aasngUaPtokoXN37CK9ZKxV7TNrCuWkhlkToFe8ASUO4Lh7Bopbo8tnmGMycDdzT9Kut2pggQHjILld9-_6WFNqRgBygg.webp",
         "description": "감수성 풍부한 예술가 타입! 음악을 사랑하는 라라핑과 찰떡이야~",
         "personality": "감성충만 아티스트",
         "fact": "🎵 노래와 음악을 사랑하는 티니핑! 감성 폭발 매력~",
@@ -80,7 +80,7 @@ tinyping_data = {
     "ENFJ": {
         "name": "해핑",
         "emoji": "☀️😊",
-        "image": "https://i.namu.wiki/i/HfQqZ_2LkLM3vSyVpz4Ms3PpdAH4FmIqI8HCRBC4hG3rPLM1Bb7QPGgyEdJzAQbCBJWy3HKDcoVa1Z6mzkAdLg.webp",
+        "image": "https://i.namu.wiki/i/a3uoGQU_VXpIEmE1wFrA7Vfco8zevlGZLU3jkGTEdlWZHhz_1rEXzgl3XB7p_B9h8hwY-7wGj2tbFG4JR06O88hAl2VzFL9RlefoA1kGUP0C-_-a8_WWNcYo9OflZSwJjmItTrtF6rZGklW6OMwYSQ.webp",
         "description": "밝고 따뜻한 너의 에너지! 햇살 같은 해핑과 너무 잘 어울려~",
         "personality": "햇살같은 행복전도사",
         "fact": "☀️ 햇살처럼 따뜻하게 모두를 비춰주는 천사 티니핑~",
@@ -91,7 +91,7 @@ tinyping_data = {
     "ENFP": {
         "name": "바로핑",
         "emoji": "🌈🎉",
-        "image": "https://i.namu.wiki/i/Tcj5_TrLuMOcVu2j1bxYWGwGYwYmwYJq8h6xJtJD7nVMRBHzfvILpZ5HwL_PWPzWzGqL_QBJZf-_kFmZRtJiKw.webp",
+        "image": "https://i.namu.wiki/i/IFpi2gWDo6WYv4iaeIMLFEWjQQEpcX4ytaY8YgRIkq1nxvHcBrMUik56uHuYvhKVIhe6JyXugTSjZIpVvi1Vs-B72n5lHa-Bg8qnBlr2ZXIC5vcLAKVzr20YDjGJT3aI5pHPvIhznBaV2-LGPQNOJA.webp",
         "description": "에너지 폭발 자유로운 영혼! 변신의 달인 바로핑과 환상의 콤비!",
         "personality": "자유로운 변신요정",
         "fact": "🌈 '바로 바로!' 다양하게 변신하는 만능 티니핑~",
@@ -102,7 +102,7 @@ tinyping_data = {
     "ISTJ": {
         "name": "꾸래핑",
         "emoji": "📚🎀",
-        "image": "https://i.namu.wiki/i/IsZ_T_VfYwQ6QvjNw1Y4r-RLrCvDpGdEZsJoLUNNJ1H8jrAOJYjmKZpnEZ8AXkXqGw7XAvLJ0DEvxKBJ-eRtNg.webp",
+        "image": "https://i.namu.wiki/i/fwI1dwKAUK2c8_imisazbTjMEP8osoE2naMv-5m4pyVmUe6KnzgzLr3XxGa6424UyKkFOGofQmfTFOrTgfzB49zwtzZ7s4ylVw2cEiH-pfZaJXTp1Vs_RlW6PXTlj2T3rEwwt6179x8_bYp-mwOvOw.webp",
         "description": "성실하고 책임감 강한 너! 꼼꼼한 꾸래핑과 환상의 짝꿍이야~",
         "personality": "성실한 모범생",
         "fact": "📚 매일 꾸준히 무언가를 하는 성실 끝판왕 티니핑!",
@@ -113,7 +113,7 @@ tinyping_data = {
     "ISFJ": {
         "name": "포실핑",
         "emoji": "🧸💕",
-        "image": "https://i.namu.wiki/i/zSDl7QxA7CmIQEZP4yAr3iZL7vWLcL9z6dN5N9zQqOJM2c2VRfgxhqRvKtKr9JCXC1AsxX5d-vGtSP6FU8VYBQ.webp",
+        "image": "https://i.namu.wiki/i/vaVb2aK0O3eDQvNaKY64fg9ZVKCSw9oSj0Ov3yRzLqs3i3MaDzTvFXAqjNhjO2BHa6QIS5LOqCUhFrd5EVt7j6hqpBFxcCdlymtupyMajTL4DPQDcmwFWGeL67QdcojvTqmAj4akiDckb8x9UxGofA.webp",
         "description": "포근하고 다정한 너! 따뜻한 마음의 포실핑과 닮은 매력이야~",
         "personality": "포근한 힐링요정",
         "fact": "🧸 포근포근한 마음으로 친구들을 챙겨주는 다정한 티니핑~",
