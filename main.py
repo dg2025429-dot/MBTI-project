@@ -25,7 +25,7 @@ tinyping_data = {
     "INTP": {
         "name": "아잉핑",
         "emoji": "🤔💭",
-        "image": "https://i.namu.wiki/i/eaqRiWcfQOQ0qmEdwm0M2pXxwIQQNo-MOOKkOKb_RG3Wj7tn7Va9XHfRA5MfArXcRrUbpkN3DMv8FrZJBQA_LQ.webp",
+        "image": "https://i.namu.wiki/i/l2PVq5UTMpHHVTuqu4Z7le8jn62Q_TF3pJGRY7MOoDwmJV69bN_IBRQv0jxT5sBV-9cmJAWoSwB0wBu8YC5bQHXJ1xD_Ygg03isvLnwUQD9LmHVoDI17w9am_SJTuPX7cIVOFyY3ITFN2LiTr6c3Rg.webp",
         "description": "엉뚱하고 호기심 가득한 너! 알쏭달쏭 아잉핑과 환상의 콤비~",
         "personality": "엉뚱한 호기심쟁이",
         "fact": "💭 '아잉~' 하면서 헷갈리게 만드는 매력의 소유자!",
