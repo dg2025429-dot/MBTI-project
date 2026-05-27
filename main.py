@@ -14,7 +14,7 @@ tinyping_data = {
     "INTJ": {
         "name": "차차핑",
         "emoji": "🧊❄️",
-        "image": "https://namu.wiki/w/%EC%B0%A8%EC%B0%A8%ED%95%91",
+        "image": "https://i.namu.wiki/i/cg2RlnSasAgScmXMvQw94dNOOCXozN1xMo5ppewr2a8jsbltWBGL3kB8ygCAwuuZyGIojS9Bq1OwBMBYvQInOXexcNX0bju4x6J-VLwLTxWZx1XVDOrvHEK_4OyS7PNqAZI3M4LQdShNLhB-KBdjTg.webp",
         "description": "차갑고 시크하지만 속은 깊은 매력! 자기 세계가 확실한 너에게 딱이야~",
         "personality": "냉철한 전략가",
         "fact": "❄️ 차가운 마음의 티니핑! 시크함 뒤에 숨겨진 진심이 매력이야~",
